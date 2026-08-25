@@ -1,0 +1,6 @@
+runs/
+*.log
+*.vcd
+runs/
+*.vcd
+*.log

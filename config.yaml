@@ -1,0 +1,125 @@
+# ============================================================
+# SINGLE-CYCLE RISC-V PROCESSOR
+# LibreLane 3.0.6
+#
+# Target:
+#   Frequency = 40 MHz
+#   Clock Period = 25 ns
+#   Fixed Floorplan
+#   Low/Moderate Area Utilization
+#   Timing + Routability Driven Placement
+# ============================================================
+# ============================================================
+# BASIC
+# ============================================================
+DESIGN_NAME: single_cycle_cpu
+VERILOG_FILES:
+  - dir::src/Single_cycle.v
+CLOCK_PORT: clk
+CLOCK_PERIOD: 25.0
+PNR_SDC_FILE: dir::src/impl.sdc
+SIGNOFF_SDC_FILE: dir::src/signoff.sdc
+# ============================================================
+# SYNTHESIS
+# ============================================================
+SYNTH_STRATEGY: "AREA 0"
+SYNTH_ABC_BUFFERING: true
+SYNTH_SIZING: true
+# ============================================================
+# FLOORPLAN
+# ============================================================
+# Use fixed/absolute floorplan
+FP_SIZING: "absolute"
+# ------------------------------------------------------------
+# Fixed DIE and CORE dimensions
+#
+# DIE  = 360 x 360 um
+# CORE = 330 x 330 um (X1: 15, Y1: 15, X2: 345, Y2: 345)
+#
+# 15 um margin on all four sides for PDN rings and IO pins
+# ------------------------------------------------------------
+DIE_AREA: [0, 0, 360, 360]
+CORE_AREA: [15, 15, 335, 335]
+FP_ASPECT_RATIO: 1.0
+# Target utilization for placement
+FP_CORE_UTIL: 40
+# ============================================================
+# PLACEMENT
+# ============================================================
+PL_TIMING_DRIVEN: true
+PL_ROUTABILITY_DRIVEN: true
+PL_TARGET_DENSITY_PCT: 60
+# ============================================================
+# CELL PADDING
+# ============================================================
+GPL_CELL_PADDING: 0
+DPL_CELL_PADDING: 0
+# ============================================================
+# POST CTS TIMING OPTIMIZATION
+# ============================================================
+RUN_POST_CTS_RESIZER_TIMING: true
+# ============================================================
+# POWER DISTRIBUTION NETWORK
+# ============================================================
+# Core ring: vertical (met4, pink) segments made EXTRA thick,
+# horizontal (met5, cyan) segments kept as before.
+# PDN_VWIDTH controls the vertical ring/strap thickness -> 4um -> 7um.
+# PDN_VOFFSET bumped up slightly so the wider vertical ring still
+# sits comfortably inside the core boundary.
+PDN_CORE_RING: true
+PDN_VOFFSET: 5
+PDN_HOFFSET: 5
+PDN_VWIDTH: 2
+PDN_HWIDTH: 2
+PDN_VSPACING: 5
+PDN_HSPACING: 5
+PDN_VPITCH: 40
+PDN_HPITCH: 40
+PDN_SKIPTRIM: true
+FP_PDN_CORE_RING_VWIDTH: 4
+FP_PDN_CORE_RING_HWIDTH: 4
+FP_PDN_CORE_RING_VOFFSET: 5
+FP_PDN_CORE_RING_HOFFSET: 5
+FP_PDN_CORE_RING_VSPACING: 4
+FP_PDN_CORE_RING_HSPACING: 4
+# ============================================================
+# PIN ORDER
+# ============================================================
+IO_PIN_ORDER_CFG: dir::pin_order.cfg
+# ============================================================
+# SKY130
+# ============================================================
+pdk::sky130*:
+  CTS_CLK_BUFFERS:
+    - sky130_fd_sc_hd__clkbuf_1
+    - sky130_fd_sc_hd__clkbuf_2
+    - sky130_fd_sc_hd__clkbuf_4
+    - sky130_fd_sc_hd__clkbuf_8
+    - sky130_fd_sc_hd__clkbuf_16
+  CLOCK_PERIOD: 25.0
+  FP_CORE_UTIL: 40
+# ============================================================
+# SKY130 HIGH SPEED
+# ============================================================
+scl::sky130_fd_sc_hs:
+  CLOCK_PERIOD: 25.0
+# ============================================================
+# SKY130 LOW SPEED
+# ============================================================
+scl::sky130_fd_sc_ls:
+  CLOCK_PERIOD: 25.0
+  MAX_FANOUT_CONSTRAINT: 5
+  MAX_TRANSITION_CONSTRAINT: 0.75
+# ============================================================
+# GF180 MCU
+# ============================================================
+pdk::gf180mcu*:
+  CLOCK_PERIOD: 25.0
+  FP_CORE_UTIL: 40
+  MAX_FANOUT_CONSTRAINT: 4
+  MAX_TRANSITION_CONSTRAINT: 0.75
+  PL_TARGET_DENSITY_PCT: 60
+  PL_TIMING_DRIVEN: true
+  PL_ROUTABILITY_DRIVEN: true
+  GPL_CELL_PADDING: 0
+  DPL_CELL_PADDING: 0

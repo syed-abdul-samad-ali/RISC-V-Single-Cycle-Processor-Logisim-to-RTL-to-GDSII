@@ -1,0 +1,49 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-user-1000'
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+
+Fontconfig error: No writable cache directories
+	/var/cache/fontconfig
+	/var/empty/.cache/fontconfig
+qt.glx: qglx_findConfig: Failed to finding matching FBConfig for QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SingleBuffer, swapInterval 1, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile)
+Reading OpenROAD database at '/home/cl4/Desktop/training/single_cycle/runs/RUN_2026-08-22_09-37-52/323-odb-cellfrequencytables/single_cycle_cpu.odb'…
+Reading library file at '/home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading design constraints file at '/home/cl4/Desktop/training/single_cycle/src/impl.sdc'…
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 5.0
+[INFO] Setting input delay to: 5.0
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[INFO] Setting timing derate to: 5%
+[INFO] No information on clock propagation in input SDC file-- propagating all clocks.
+Reading top-level design parasitics for the 'nom_tt_025C_1v80' corner at '/home/cl4/Desktop/training/single_cycle/runs/RUN_2026-08-22_09-37-52/324-openroad-rcx/nom/single_cycle_cpu.nom.spef'…
+[WARNING GUI-0076] qglx_findConfig: Failed to finding matching FBConfig for QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SingleBuffer, swapInterval 1, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile)
+[WARNING GUI-0076] qglx_findConfig: Failed to finding matching FBConfig for QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SingleBuffer, swapInterval 1, colorSpace QSurfaceFormat::DefaultColorSpace, profile  QSurfaceFormat::NoProfile)

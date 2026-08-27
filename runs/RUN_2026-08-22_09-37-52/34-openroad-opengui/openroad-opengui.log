@@ -1,0 +1,28 @@
+Authorization required, but no authorization protocol specified
+
+qt.qpa.xcb: could not connect to display :0
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: wayland-egl, wayland, wayland-xcomposite-egl, wayland-xcomposite-glx, eglfs, linuxfb, minimal, minimalegl, offscreen, vnc, xcb.
+
+Signal 6 received
+Stack trace:
+ 0# 0x00005BE57D8C3AD2 in /nix/store/qqz49dx8dpx4q9i5wriif091n7iaa0ld-openroad-2026-02-17/bin/openroad
+ 1# 0x00007B05EAA289C0 in /nix/store/xx7cm72qy2c0643cm1ipngd87aqwkcdp-glibc-2.40-66/lib/libc.so.6
+ 2# 0x00007B05EAA83AAC in /nix/store/xx7cm72qy2c0643cm1ipngd87aqwkcdp-glibc-2.40-66/lib/libc.so.6
+ 3# gsignal in /nix/store/xx7cm72qy2c0643cm1ipngd87aqwkcdp-glibc-2.40-66/lib/libc.so.6
+ 4# abort in /nix/store/xx7cm72qy2c0643cm1ipngd87aqwkcdp-glibc-2.40-66/lib/libc.so.6
+ 5# 0x00007B05EC049304 in /nix/store/k90d0xyi1wi0m0vi8g45xrqhyyzin44s-qtbase-5.15.18/lib/libQt5Core.so.5
+ 6# QGuiApplicationPrivate::createPlatformIntegration() in /nix/store/k90d0xyi1wi0m0vi8g45xrqhyyzin44s-qtbase-5.15.18/lib/libQt5Gui.so.5
+ 7# QGuiApplicationPrivate::createEventDispatcher() in /nix/store/k90d0xyi1wi0m0vi8g45xrqhyyzin44s-qtbase-5.15.18/lib/libQt5Gui.so.5
+ 8# QCoreApplicationPrivate::init() in /nix/store/k90d0xyi1wi0m0vi8g45xrqhyyzin44s-qtbase-5.15.18/lib/libQt5Core.so.5
+ 9# QGuiApplicationPrivate::init() in /nix/store/k90d0xyi1wi0m0vi8g45xrqhyyzin44s-qtbase-5.15.18/lib/libQt5Gui.so.5
+10# QApplicationPrivate::init() in /nix/store/k90d0xyi1wi0m0vi8g45xrqhyyzin44s-qtbase-5.15.18/lib/libQt5Widgets.so.5
+11# gui::startGui(int&, char**, Tcl_Interp*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, bool, bool, bool) in /nix/store/qqz49dx8dpx4q9i5wriif091n7iaa0ld-openroad-2026-02-17/bin/openroad
+12# ord::tclInit(Tcl_Interp*) in /nix/store/qqz49dx8dpx4q9i5wriif091n7iaa0ld-openroad-2026-02-17/bin/openroad
+13# Tcl_MainEx in /nix/store/biz055ybc5x1vxar1dqlrjsw7w9axgc2-tcl-8.6.16/lib/libtcl.so
+14# main in /nix/store/qqz49dx8dpx4q9i5wriif091n7iaa0ld-openroad-2026-02-17/bin/openroad
+15# 0x00007B05EAA114D8 in /nix/store/xx7cm72qy2c0643cm1ipngd87aqwkcdp-glibc-2.40-66/lib/libc.so.6
+16# __libc_start_main in /nix/store/xx7cm72qy2c0643cm1ipngd87aqwkcdp-glibc-2.40-66/lib/libc.so.6
+17# _start in /nix/store/qqz49dx8dpx4q9i5wriif091n7iaa0ld-openroad-2026-02-17/bin/openroad

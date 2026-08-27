@@ -1,0 +1,43 @@
+135. Printing statistics.
+
+=== single_cycle_cpu ===
+
+        +----------Local Count, excluding submodules.
+        | 
+    14763 wires
+    23846 wire bits
+      296 public wires
+     9379 public wire bits
+        5 ports
+       98 port bits
+    23838 cells
+     2516   $_ANDNOT_
+       59   $_AND_
+      990   $_DFFE_PP0P_
+        4   $_DFFE_PP1P_
+     8192   $_DFFE_PP_
+       30   $_DFF_PP0_
+     8481   $_MUX_
+       84   $_NAND_
+      134   $_NOR_
+     1162   $_NOT_
+      193   $_ORNOT_
+     1809   $_OR_
+       57   $_XNOR_
+      127   $_XOR_
+
+   Area for cell type $_ANDNOT_ is unknown!
+   Area for cell type $_AND_ is unknown!
+   Area for cell type $_DFFE_PP0P_ is unknown!
+   Area for cell type $_DFFE_PP1P_ is unknown!
+   Area for cell type $_DFFE_PP_ is unknown!
+   Area for cell type $_DFF_PP0_ is unknown!
+   Area for cell type $_MUX_ is unknown!
+   Area for cell type $_NAND_ is unknown!
+   Area for cell type $_NOR_ is unknown!
+   Area for cell type $_NOT_ is unknown!
+   Area for cell type $_ORNOT_ is unknown!
+   Area for cell type $_OR_ is unknown!
+   Area for cell type $_XNOR_ is unknown!
+   Area for cell type $_XOR_ is unknown!
+

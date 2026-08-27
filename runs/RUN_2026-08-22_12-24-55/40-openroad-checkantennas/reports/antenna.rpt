@@ -1,0 +1,4004 @@
+Net: DMEM.memory\[0\]\[5\]
+  Pin:   _3903_/B2 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    2.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.50
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   11.74
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   11.74
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    0.75
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.25
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.48
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   15.22
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:  184.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  187.75
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  985.89
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 1001.11
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.62
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   16.94
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  204.70
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   91.63
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio: 1092.74
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   hold1323/A (sky130_fd_sc_hd__dlygate4sd3_1)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    6.49
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.49
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   29.60
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   29.60
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    2.14
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    8.64
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   10.06
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   39.66
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.32
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    1.08
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   33.84
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   42.48
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  184.19
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  223.85
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.32
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    1.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   16.94
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   59.42
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   91.63
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  315.48
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: RF.registers\[12\]\[13\]
+  Pin:   _3968_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    9.43
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.43
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   45.98
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.22
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.54
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   12.97
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   17.20
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   63.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.50
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   23.06
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   36.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  123.57
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  186.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4213_/B2 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    9.43
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.43
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   45.98
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.22
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.34
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.54
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   12.97
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   17.20
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   63.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.44
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   23.06
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   36.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  123.57
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  186.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4222_/A1 (sky130_fd_sc_hd__a21o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    3.91
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.91
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   18.78
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   18.78
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   10.55
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   14.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   52.01
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   70.79
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   23.06
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   37.52
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  123.57
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  194.37
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5701_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   99.80
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   99.80
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  497.82
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  497.82
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   10.55
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  110.35
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   52.01
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  549.84
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.56
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   23.06
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  133.41
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  123.57
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  673.41
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: RF.registers\[12\]\[19\]
+  Pin:   _3956_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    9.37
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.37
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.66
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   45.66
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.32
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   18.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   46.00
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   91.66
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4144_/A1 (sky130_fd_sc_hd__a22o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   25.37
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   25.37
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  125.21
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  125.21
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.48
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.32
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   34.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   46.00
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  171.20
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4150_/B2 (sky130_fd_sc_hd__a22o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.73
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.73
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    7.81
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    7.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.32
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.06
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   46.00
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   53.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5712_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:  135.41
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  135.41
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  675.87
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  675.87
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.32
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  144.73
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   46.00
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  721.86
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: RF.registers\[12\]\[28\]
+  Pin:   _3937_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   13.53
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   13.53
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   65.37
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   65.37
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.42
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.61
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    5.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   19.24
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.04
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   93.41
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.70
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   19.54
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.79
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   96.21
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.80
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    2.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   22.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.94
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  111.14
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4071_/B2 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    2.59
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.59
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   12.18
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   12.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    5.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    8.29
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.04
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   40.23
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    8.60
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.79
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   43.02
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.50
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    2.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.29
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.94
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   57.96
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4078_/B2 (sky130_fd_sc_hd__a22o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    0.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    0.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.52
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    2.52
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.15
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.27
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.00
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.34
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   16.86
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.37
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.00
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.79
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   19.66
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.10
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.47
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    2.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.94
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   34.59
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5731_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:  129.68
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  129.68
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  647.25
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  647.25
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.00
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  132.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.34
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  661.59
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.56
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  132.99
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.79
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  664.38
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.10
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.66
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    2.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  135.68
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.94
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  679.32
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: RF.registers\[12\]\[29\]
+  Pin:   _3935_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    9.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   47.31
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   47.31
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.22
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    5.34
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.04
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   26.21
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   73.52
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.19
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    1.74
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   75.26
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.53
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.24
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   20.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.52
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  103.77
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4057_/B2 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    9.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   47.31
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   47.31
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.22
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.34
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    5.34
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.04
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   26.21
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   73.52
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.19
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    1.74
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   75.26
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.24
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   20.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.52
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  103.77
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4064_/A1 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.32
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.32
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    5.93
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    5.93
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    5.34
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.66
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   26.21
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   32.15
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.36
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.19
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.85
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    1.74
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   33.88
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.42
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.24
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   12.09
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.52
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   62.40
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5733_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.01
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   18.90
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   18.90
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    1.17
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    5.42
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   24.32
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.25
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:  300.21
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  305.40
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio: 1604.08
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 1628.39
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.25
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.97
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.24
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  310.64
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.52
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio: 1656.91
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: RF.registers\[12\]\[2\]
+  Pin:   _3460_/B2 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    6.39
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.39
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   30.63
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   30.63
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.22
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.34
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    0.87
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.26
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    4.12
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   34.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.44
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   46.14
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   53.39
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  247.20
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  281.95
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.53
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.83
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   79.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  138.61
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  420.56
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3994_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    6.39
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.39
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   30.63
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   30.63
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.22
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    0.87
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.26
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    4.12
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   34.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.50
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   46.14
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   53.39
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  247.20
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  281.95
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.10
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.60
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.83
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   79.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  138.61
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  420.56
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5678_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    3.63
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.63
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   16.68
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   16.68
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   13.55
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   17.18
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   66.59
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   83.26
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.25
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:  170.03
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  187.20
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  909.74
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  993.00
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.25
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.97
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.83
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  213.04
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  138.61
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio: 1131.61
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: RF.registers\[12\]\[31\]
+  Pin:   _3931_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    5.60
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.60
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.00
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   27.00
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.17
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    2.33
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.93
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   11.31
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   38.31
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.41
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    3.35
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.28
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   18.61
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   56.92
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.48
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.61
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   36.89
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  137.15
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  194.07
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4011_/B2 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    5.60
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.60
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.00
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   27.00
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.17
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.29
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    2.33
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.93
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   11.31
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   38.31
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    3.35
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.28
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   18.61
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   56.92
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.41
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.61
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   36.89
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  137.15
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  194.07
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4035_/A1 (sky130_fd_sc_hd__a221o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    5.60
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.60
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.00
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   27.00
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.17
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.29
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    2.33
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.93
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   11.31
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   38.31
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    3.35
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.28
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   18.61
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   56.92
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.41
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.61
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   36.89
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  137.15
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  194.07
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5737_/A0 (sky130_fd_sc_hd__mux2_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    6.18
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.18
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   29.75
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   29.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   19.62
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   25.80
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   96.97
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  126.71
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.25
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:  222.10
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  247.90
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio: 1187.47
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 1314.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.25
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.97
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   25.61
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  273.51
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  137.15
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio: 1451.34
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: net439
+  Pin:   _5163_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.21
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.21
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   19.58
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   19.58
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.59
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    7.23
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.44
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   35.11
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   54.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.75
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   14.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   25.45
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   75.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  130.67
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.05
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.80
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   30.47
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  157.84
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5165_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   79.95
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   79.95
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  396.58
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  396.58
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.71
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.94
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    7.23
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   87.18
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   35.11
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  431.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    1.10
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   14.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  101.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   75.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  507.67
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.05
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    1.16
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  106.22
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  534.84
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5167_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    9.21
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.21
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   44.47
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   44.47
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.38
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.61
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   36.17
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   45.38
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  179.72
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  224.19
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.69
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.25
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   45.63
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.25
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  226.45
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   50.65
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  253.61
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5169_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    3.79
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.79
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   18.25
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   18.25
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.20
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.43
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    7.23
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.02
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   35.11
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   53.36
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.59
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   14.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   25.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   75.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  129.34
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.05
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.64
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   30.06
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  156.50
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5171_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   11.46
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   11.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   55.81
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   55.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.59
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   16.54
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   28.00
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   81.96
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  137.76
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.75
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   14.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   42.01
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   75.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  213.74
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.05
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.80
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   47.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  240.90
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5173_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.88
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.88
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   22.92
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   22.92
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.59
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   16.54
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   21.42
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   81.96
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  104.88
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.75
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   14.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   35.43
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   75.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  180.85
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.05
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.80
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   40.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  208.02
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5177_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   29.40
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   29.40
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  144.69
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  144.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    7.23
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   36.63
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   35.11
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  179.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.16
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.92
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   14.01
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   50.65
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   75.98
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  255.78
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.05
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.98
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   55.67
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  282.95
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5184_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    5.46
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   25.81
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   25.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.59
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   36.17
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   41.63
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  179.72
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  205.53
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.67
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.25
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   41.88
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.25
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  207.78
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.75
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   46.90
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  234.94
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5190_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   10.94
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   10.94
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   52.36
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   52.36
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   36.17
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   47.11
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  179.72
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  232.08
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.84
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.25
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   47.36
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.25
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  234.34
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.92
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   52.38
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  261.50
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5198_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   84.03
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   84.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  417.81
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  417.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   36.17
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  120.20
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  179.72
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  597.53
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.84
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.25
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  120.45
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    2.25
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  599.78
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.92
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:    5.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  125.47
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   27.16
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  626.94
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: net620
+  Pin:   _4676_/A1 (sky130_fd_sc_hd__o2111a_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.45
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.45
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   21.51
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   21.51
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   16.66
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   21.11
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   82.47
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  103.98
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.11
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.41
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   11.42
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   32.53
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   62.14
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  166.12
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.11
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.51
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   20.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   53.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  110.01
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  276.13
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5067_/A (sky130_fd_sc_hd__or2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   27.55
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   27.55
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  135.44
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  135.44
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   16.66
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   44.21
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   82.47
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  217.92
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.11
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.87
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   11.42
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   55.63
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   62.14
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  280.05
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.11
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.98
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   20.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   76.13
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  110.01
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  390.07
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5648_/A (sky130_fd_sc_hd__or2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   81.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   81.31
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  404.22
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  404.22
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   24.25
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  105.56
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  119.78
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  524.00
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.12
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.88
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.37
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  105.92
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.35
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  527.35
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.12
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    1.00
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   20.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  126.43
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  110.01
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  637.37
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   output620/A (sky130_fd_sc_hd__clkdlybuf4s25_1)
+    Layer: mcon
+      Partial area ratio:    0.14
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.14
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    0.79
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    0.79
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.41
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    3.41
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.28
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   24.25
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   25.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  119.78
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  123.19
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.12
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.37
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   25.40
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.35
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  126.54
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.12
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.52
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   20.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   45.90
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  110.01
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  236.55
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: _1920_
+  Pin:   _4053_/B (sky130_fd_sc_hd__nor2_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.82
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.82
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    8.76
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    8.76
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.07
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.13
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.94
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.32
+      Required ratio: 2781.50 (Side area) 
+      Cumulative area ratio:   24.07
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4054_/B (sky130_fd_sc_hd__nand2_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.82
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.82
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    8.76
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    8.76
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.07
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.13
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.94
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.32
+      Required ratio: 2781.50 (Side area) 
+      Cumulative area ratio:   24.07
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4456_/A (sky130_fd_sc_hd__or2b_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   96.98
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   96.98
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  482.56
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  482.56
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  100.09
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.32
+      Required ratio: 2781.50 (Side area) 
+      Cumulative area ratio:  497.87
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: _1991_
+  Pin:   _4124_/B (sky130_fd_sc_hd__and2b_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.19
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   19.85
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   19.85
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.41
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    4.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    8.90
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   23.03
+      Required ratio: 2781.50 (Side area) 
+      Cumulative area ratio:   42.88
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4125_/B1 (sky130_fd_sc_hd__a31o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.19
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   19.85
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   19.85
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    4.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    8.90
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   23.03
+      Required ratio: 2781.50 (Side area) 
+      Cumulative area ratio:   42.88
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4140_/A2_N (sky130_fd_sc_hd__a2bb2o_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:  100.69
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  100.69
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  501.62
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  501.62
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.42
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.61
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    4.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  105.40
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   23.03
+      Required ratio: 2781.50 (Side area) 
+      Cumulative area ratio:  524.65
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: net506
+  Pin:   _3330_/A (sky130_fd_sc_hd__inv_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    2.65
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.65
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   12.89
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   12.89
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.09
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.15
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   12.40
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.06
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   61.41
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   74.30
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    4.43
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   19.49
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   24.58
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:   98.88
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.08
+      Required ratio:   22.04 (Gate area) 
+      Cumulative area ratio:    0.31
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:  102.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  121.99
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  547.32
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  646.20
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   output658/A (sky130_fd_sc_hd__clkdlybuf4s25_1)
+    Layer: mcon
+      Partial area ratio:    0.14
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.14
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.16
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.16
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    5.19
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    5.19
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.21
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    0.88
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.03
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    4.04
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    9.23
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.53
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   88.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   90.08
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  471.77
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  481.00
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:  102.50
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  192.58
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  547.32
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio: 1028.32
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: net621
+  Pin:   place443/A (sky130_fd_sc_hd__buf_2)
+    Layer: mcon
+      Partial area ratio:    0.18
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   16.77
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   16.77
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   82.69
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   82.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.28
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.46
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    4.76
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   21.53
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   23.11
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  105.80
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.61
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.44
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   21.97
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.99
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  109.79
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.75
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:  104.39
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  126.37
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  558.65
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  668.44
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4671_/B (sky130_fd_sc_hd__and2_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   23.14
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   23.14
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  113.36
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  113.36
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    4.76
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   27.90
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   23.11
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  136.47
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.91
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.44
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   28.34
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    3.99
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  140.46
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    1.05
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:  104.39
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  132.73
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  558.65
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio:  699.11
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   output621/A (sky130_fd_sc_hd__clkdlybuf4s25_1)
+    Layer: mcon
+      Partial area ratio:    0.14
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.14
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    2.68
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.68
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   12.51
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   12.51
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.21
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    0.88
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.55
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    4.04
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   16.55
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.53
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:  194.95
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  198.50
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio: 1041.92
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio: 1058.47
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:  104.39
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  302.89
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  558.65
+      Required ratio: 2778.20 (Side area) 
+      Cumulative area ratio: 1617.12
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: net508
+  Pin:   _3299_/B1 (sky130_fd_sc_hd__o21a_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   16.76
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   16.76
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   81.90
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   81.90
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.48
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   19.87
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   97.14
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.49
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   19.91
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   97.53
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.51
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   37.49
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  191.39
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3302_/B1 (sky130_fd_sc_hd__a21o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    2.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.31
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   10.81
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   10.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.42
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   26.05
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.31
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.47
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   26.43
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.33
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   23.04
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  120.30
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3308_/A (sky130_fd_sc_hd__nand2_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    3.08
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.08
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.80
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   14.80
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.19
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   30.05
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.21
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   30.43
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.22
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   23.81
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  124.29
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3309_/A (sky130_fd_sc_hd__or3_4)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    3.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    3.09
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   14.69
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   14.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.20
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   29.93
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.31
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.24
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   30.32
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.33
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   23.81
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  124.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3313_/C (sky130_fd_sc_hd__nand4b_4)
+    Layer: mcon
+      Partial area ratio:    0.03
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.03
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.46
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    7.01
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    7.01
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.08
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.11
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.58
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   22.26
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.62
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   22.64
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.14
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   22.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  116.50
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3324_/A (sky130_fd_sc_hd__or3_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    1.46
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    1.46
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    7.01
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    7.01
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.08
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.31
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.58
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   22.26
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.32
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.62
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   22.64
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.34
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   22.19
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  116.50
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3331_/C_N (sky130_fd_sc_hd__or3b_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   13.02
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   13.02
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   62.77
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   62.77
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.54
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.77
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   16.13
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   78.01
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.78
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   16.17
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   78.39
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.79
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   33.75
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  172.26
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3532_/A1 (sky130_fd_sc_hd__a41o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.13
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.13
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   19.90
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   19.90
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.24
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   35.15
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.31
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.29
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   35.53
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.33
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   24.86
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  129.39
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5135_/A1 (sky130_fd_sc_hd__a211o_2)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    2.68
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    2.68
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   12.67
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   12.67
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.18
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.30
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    3.11
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.80
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   15.25
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   27.92
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.31
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.04
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.84
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.38
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:   28.30
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.01
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.33
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   23.41
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  122.16
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   output657/A (sky130_fd_sc_hd__clkdlybuf4s25_1)
+    Layer: mcon
+      Partial area ratio:    0.14
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.14
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    5.76
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    5.76
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   28.22
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   28.22
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.21
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   55.46
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   61.23
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  276.47
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  304.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.53
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:   97.77
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  158.99
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  523.61
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  828.30
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.19
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   17.57
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  176.56
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   93.86
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  922.16
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+Net: net653
+  Pin:   _3331_/B (sky130_fd_sc_hd__or3b_2)
+    Layer: mcon
+      Partial area ratio:    0.23
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.23
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.53
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.53
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   21.19
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   21.19
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.36
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.59
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   25.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   30.24
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  128.03
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  149.23
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.65
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.20
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   30.44
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    1.83
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  151.06
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.72
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   12.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   42.49
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   64.49
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  215.54
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _3403_/A (sky130_fd_sc_hd__or2_4)
+    Layer: mcon
+      Partial area ratio:    0.12
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.12
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    6.59
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    6.59
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   31.75
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   31.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.27
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.39
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.68
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.16
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   76.91
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.42
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   15.77
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.78
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   77.69
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.44
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   12.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   27.81
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   64.49
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  142.18
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4803_/C1 (sky130_fd_sc_hd__o211ai_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    4.78
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    4.78
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   23.51
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   23.51
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.09
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.15
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   13.87
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.16
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   68.67
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   13.96
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.78
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   69.45
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.20
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   12.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   26.00
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   64.49
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  133.94
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _4942_/C1 (sky130_fd_sc_hd__o211ai_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    0.44
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    0.44
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    1.80
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:    1.80
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.09
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.15
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.53
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.16
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   46.96
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.18
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    9.62
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.78
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   47.75
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.20
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   12.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   21.67
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   64.49
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  112.23
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   _5667_/A (sky130_fd_sc_hd__nor2_2)
+    Layer: mcon
+      Partial area ratio:    0.06
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.06
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:    7.31
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:    7.31
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   35.95
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:   35.95
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.14
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.19
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:   25.71
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   33.02
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  128.03
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  163.98
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.06
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.26
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.20
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   33.22
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    1.83
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  165.81
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.06
+      Required ratio:   38.08 (Gate area) 
+      Cumulative area ratio:    0.32
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   12.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   45.27
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   64.49
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  230.30
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+  Pin:   output653/A (sky130_fd_sc_hd__clkdlybuf4s25_1)
+    Layer: mcon
+      Partial area ratio:    0.14
+      Required ratio:    3.00 (Gate area) 
+      Cumulative area ratio:    0.14
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met1
+      Partial area ratio:   86.70
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   86.70
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:  432.89
+      Required ratio:  400.00 (Side area) (VIOLATED)
+      Cumulative area ratio:  432.89
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via
+      Partial area ratio:    0.21
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.35
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met2
+      Partial area ratio:    9.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   95.79
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   45.16
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  478.06
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via2
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.37
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met3
+      Partial area ratio:    0.09
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:   95.88
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:    0.78
+      Required ratio:  400.00 (Side area) 
+      Cumulative area ratio:  478.84
+      Required ratio:    0.00 (Cumulative side area) 
+
+    Layer: via3
+      Partial area ratio:    0.03
+      Required ratio:    6.00 (Gate area) 
+      Cumulative area ratio:    0.40
+      Required ratio:    0.00 (Cumulative area) 
+
+    Layer: met4
+      Partial area ratio:   12.05
+      Required ratio:    0.00 (Gate area) 
+      Cumulative area ratio:  107.93
+      Required ratio:    0.00 (Cumulative area) 
+      Partial area ratio:   64.49
+      Required ratio: 2956.40 (Side area) 
+      Cumulative area ratio:  543.33
+      Required ratio:    0.00 (Cumulative side area) 
+
+
+
+[INFO ANT-0002] Found 15 net violations.
+[INFO ANT-0001] Found 15 pin violations.

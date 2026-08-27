@@ -1,0 +1,42 @@
+[WARNING ORD-0039] .openroad ignored with -python
+[WARNING] Overriding minimum distance 0.1 with 0.42 for pins on side N to avoid overlap.
+Top-level design name: single_cycle_cpu
+Block boundaries: 0 0 360000 360000
+Horizontal Tracks Origin: 340, Count: 529, Step: 680
+Vertical Tracks Origin: 230, Count: 782, Step: 460
+Placement details for the N side
+Virtual pin count:  0
+Actual pin count:  32
+Total pin count:  32
+Tracks count:  782
+Tracks per pin:  24
+Used tracks count:  745
+Unused track count:  37
+Starting track index:  18
+Placement details for the E side
+Virtual pin count:  0
+Actual pin count:  2
+Total pin count:  2
+Tracks count:  265
+Tracks per pin:  132
+Used tracks count:  133
+Unused track count:  132
+Starting track index:  66
+Placement details for the W side
+Virtual pin count:  0
+Actual pin count:  32
+Total pin count:  32
+Tracks count:  265
+Tracks per pin:  8
+Used tracks count:  249
+Unused track count:  16
+Starting track index:  8
+Placement details for the S side
+Virtual pin count:  0
+Actual pin count:  32
+Total pin count:  32
+Tracks count:  782
+Tracks per pin:  24
+Used tracks count:  745
+Unused track count:  37
+Starting track index:  18

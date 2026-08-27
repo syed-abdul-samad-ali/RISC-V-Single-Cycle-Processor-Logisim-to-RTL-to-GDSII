@@ -1,0 +1,9 @@
+{
+	"global_route__vias": 56129,
+	"global_route__wirelength": 470959,
+	"flow__warnings__count": 114,
+	"flow__errors__count": 1,
+	"flow__warnings__count:GRT-0041": 112,
+	"flow__warnings__count:GRT-0273": 2,
+	"flow__warnings__type_count": 2
+}

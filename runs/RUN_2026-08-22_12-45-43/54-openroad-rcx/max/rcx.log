@@ -1,0 +1,43 @@
+Reading technology LEF file at '/home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__max.tlef'…
+[INFO ODB-0227] LEF file: /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__max.tlef, created 14 layers, 25 vias
+Reading cell LEF file at '/home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef'…
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef, created 437 library cells
+Reading cell LEF file at '/home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef'…
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef, created 8 library cells
+[INFO ODB-0127] Reading DEF file: /home/cl4/Desktop/training/single_cycle/runs/RUN_2026-08-22_12-45-43/53-odb-cellfrequencytables/single_cycle_cpu.def
+[INFO ODB-0128] Design: single_cycle_cpu
+[INFO ODB-0130]     Created 100 pins.
+[INFO ODB-0131]     Created 21055 components and 94673 component-terminals.
+[INFO ODB-0132]     Created 2 special nets and 81364 connections.
+[INFO ODB-0133]     Created 4035 nets and 13265 connections.
+[INFO ODB-0134] Finished DEF file: /home/cl4/Desktop/training/single_cycle/runs/RUN_2026-08-22_12-45-43/53-odb-cellfrequencytables/single_cycle_cpu.def
+Using RCX ruleset '/home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.tech/openlane/rules.openrcx.sky130A.max.calibre'…
+[INFO RCX-0431] Defined process_corner CURRENT_CORNER with ext_model_index 0
+[INFO RCX-0029] Defined extraction corner CURRENT_CORNER
++ extract_parasitics  -ext_model_file /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.tech/openlane/rules.openrcx.sky130A.max.calibre -lef_res
+[INFO RCX-0435] Reading extraction model file /home/cl4/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.tech/openlane/rules.openrcx.sky130A.max.calibre ...
+[INFO RCX-0436] RC segment generation single_cycle_cpu (max_merge_res 50.0) ...
+[INFO RCX-0040] Final 21321 rc segments
+[INFO RCX-0439] Coupling Cap extraction single_cycle_cpu ...
+[INFO RCX-0440] Coupling threshhold is 0.1000 fF, coupling capacitance less than 0.1000 fF will be grounded.
+[INFO RCX-0442] 53% of 31774 wires extracted
+[INFO RCX-0442] 100% of 31774 wires extracted
+[INFO RCX-0045] Extract 4035 nets, 25356 rsegs, 25356 caps, 36526 ccs
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 0 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                             15548   53023.35
+  Tap cell                               1428    1786.71
+  Antenna cell                              7      17.52
+  Standard cell                          4072   46913.74
+  Total                                 21055  101741.33
+Writing extracted parasitics to '/home/cl4/Desktop/training/single_cycle/runs/RUN_2026-08-22_12-45-43/54-openroad-rcx/max/single_cycle_cpu.max.spef'…
+[INFO RCX-0443] 4035 nets finished

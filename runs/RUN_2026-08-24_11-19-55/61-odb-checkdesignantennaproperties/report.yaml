@@ -1,0 +1,9 @@
+- cell: single_cycle_cpu
+  inout: []
+  input: []
+  output:
+  - instruction_out[0]
+  - instruction_out[19]
+  - instruction_out[1]
+  - instruction_out[29]
+  - instruction_out[31]
